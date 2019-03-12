@@ -18,9 +18,9 @@ function [CE, SC, Beta, Gamma] = LGNstatistics(im, viewingdist, dotpitch, fovbet
 % im:                     input image (1d (gray) or 3d (color))
 % viewingdist:            viewing distance to image (default = 1 meter)
 % dotpitch:               monitor dot pitch in meters
-% fovBeta:                field of view for estimation of Weibull
+% fovBeta:                field of view for estimation of CE and Weibull
 %                         beta parameter (default = 1.5 degrees)
-% fovGamma:               field of view for estimation of Weibull
+% fovGamma:               field of view for estimation of SC and Weibull
 %                         gamma parameter (default = 5 degrees)
 %
 %
