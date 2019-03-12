@@ -1,6 +1,3 @@
-*LGNstatistics
-
-
 Overview
 --------
 
