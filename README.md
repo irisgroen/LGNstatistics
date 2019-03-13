@@ -10,7 +10,7 @@ Local contrast is computed using multiscale filters that are intended to mimic L
 Instructions
 ------------
 
-The main function (LGNstatistics.m) can be called using run_LGNstatistics.m, which is a wrapper function that executes the code for all images within the directory the function is called from. It will take into account image files with the following extensions:
+The main function (LGNstatistics.m) can be called using run_LGNstatistics.m, which is a wrapper function that executes the function for all images within the directory it is called from. It will take image files with the following extensions:
 
 *.jpg
 *.jpeg
