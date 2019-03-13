@@ -34,7 +34,7 @@ The script generates the following output per image:
 - CE: Contrast energy parameter for 3 color components (gray , blue-yellow, red-green)
 - SC: Spatial coherence parameter for 3 color components (gray , blue-yellow, red-green)
 - Beta: Weibull beta parameter for 3 color components (gray , blue-yellow, red-green)
-- Gamma:Weibull gamma parameter for 3 color components (gray , blue-yellow, red-green)
+- Gamma: Weibull gamma parameter for 3 color components (gray , blue-yellow, red-green)
 
 
 
