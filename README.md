@@ -1,9 +1,9 @@
 Overview
 --------
 
-This is a set of Matlab functions that can be used to compute local contrast statistics for an arbitrary input image. 
+This is a set of Matlab functions that can be used to compute local contrast statistics for an input image (natural scene). 
 
-Local contrast is computed using multiscale filters that are intended to mimic LGN receptive fields. The local contrast magnitude map across the image is summarized in a histogram, which is then characterized in to ways: 1) using on a Weibull fit (Beta and Gamma parameters) and 2) using the mean and coefficient of variation of the histogram (contrast energy, CE, and spatial coherence, SC). CE and SC are approximations of Beta and Gamma, and are thought to constitute a more biologically plausible computation of a local contrast statistic based on LGN outputs that the Weibull fit.
+Local contrast is computed using multiscale filters that are intended to mimic LGN receptive fields. The local contrast magnitude map across the image is summarized in a histogram, which is then characterized in two ways: 1) using on a Weibull fit (Beta and Gamma parameters) and 2) using the mean and coefficient of variation of the histogram (contrast energy, CE, and spatial coherence, SC). CE and SC are approximations of Beta and Gamma, and are thought to constitute a more biologically plausible computation of a local contrast statistic based on LGN outputs that the Weibull fit.
 
 
 
