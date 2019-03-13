@@ -22,7 +22,7 @@ The main function (LGNstatistics.m) can be called using run_LGNstatistics.m, whi
 
 - .tif
 
-
+------------
 
 LGNstatistics.m has default settings describing the experimental setup, but the following settings can be customized:
 
@@ -34,9 +34,9 @@ LGNstatistics.m has default settings describing the experimental setup, but the 
 
 - fovGamma: field of view for estimation of SC and Gamma (default = 5 degrees)
 
+------------
 
-
-The script generates the following output per image
+The script generates the following output per image:
 
 - CE: Contrast energy parameter for 3 color components (gray , blue-yellow, red-green)
 
