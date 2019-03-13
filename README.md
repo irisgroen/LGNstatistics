@@ -12,15 +12,16 @@ Instructions
 
 The main function (LGNstatistics.m) can be called using run_LGNstatistics.m, which is a wrapper function that executes the function for all images within the directory it is called from. It will take image files with the following extensions:
 
-- *.jpg
+- .jpg
 
-- *.jpeg
+- .jpeg
 
-- *.png
+- .png
 
-- *.bmp
+- .bmp
 
-- *.tif
+- .tif
+
 
 
 LGNstatistics.m has default settings describing the experimental setup, but the following settings can be customized:
@@ -32,6 +33,7 @@ LGNstatistics.m has default settings describing the experimental setup, but the 
 - fovBeta: field of view for estimation of CE and Beta (default = 1.5 degrees)
 
 - fovGamma: field of view for estimation of SC and Gamma (default = 5 degrees)
+
 
 
 The script generates the following output per image
