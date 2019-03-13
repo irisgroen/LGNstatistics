@@ -13,37 +13,27 @@ Instructions
 The main function (LGNstatistics.m) can be called using run_LGNstatistics.m, which is a wrapper function that executes the function for all images within the directory it is called from. It will take image files with the following extensions:
 
 - .jpg
-
 - .jpeg
-
 - .png
-
 - .bmp
-
 - .tif
 
-------------
+
 
 LGNstatistics.m has default settings describing the experimental setup, but the following settings can be customized:
 
 - viewingdist: viewing distance to image (default = 1 meter)
-
 - dotpitch: monitor dot pitch in meters
-
 - fovBeta: field of view for estimation of CE and Beta (default = 1.5 degrees)
-
 - fovGamma: field of view for estimation of SC and Gamma (default = 5 degrees)
 
-------------
+
 
 The script generates the following output per image:
 
 - CE: Contrast energy parameter for 3 color components (gray , blue-yellow, red-green)
-
 - SC: Spatial coherence parameter for 3 color components (gray , blue-yellow, red-green)
-
 - Beta: Weibull beta parameter for 3 color components (gray , blue-yellow, red-green)
-
 - Gamma:Weibull gamma parameter for 3 color components (gray , blue-yellow, red-green)
 
 
