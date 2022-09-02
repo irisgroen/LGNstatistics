@@ -43,15 +43,15 @@ Acknowledgements
 
 This code was written by Sennay Ghebreab and modified by Steven Scholte and Iris Groen, at the University of Amsterdam. This version of the model was first used in the following publication:
 
-Groen IIA, Ghebreab S, Prins H, Lamme VAF, Scholte HS (2013) From image statistics to scene gist: Evoked neural activity reveals transition from low-level natural image structure to scene category. The Journal of Neuroscience 33(48):18813-18824.
+Groen IIA, Ghebreab S, Prins H, Lamme VAF, Scholte HS (2013) From image statistics to scene gist: Evoked neural activity reveals transition from low-level natural image structure to scene category. The Journal of Neuroscience 33(48):18813-18824 (https://doi.org/10.1523/JNEUROSCI.3128-13.2013)
 
 Prior publications using a single-scale version of this model are the following:
 
-Scholte HS, Ghebreab S, Waldorp L, Smeulders AWM, Lamme VAF (2009) Brain responses strongly correlate with Weibull image statistics when processing natural images. J Vis 9:1-15. 
+Scholte HS, Ghebreab S, Waldorp L, Smeulders AWM, Lamme VAF (2009) Brain responses strongly correlate with Weibull image statistics when processing natural images. J Vis 9:1-15. (https://doi.org/10.1167/9.4.29)
 
-Ghebreab S, Smeulders AWM, Scholte HS, Lamme VAF (2009) A biologically plausible model for rapid natural image identification. Advances in Neural Information Processing Systems 22, 629-637.
+Ghebreab S, Smeulders AWM, Scholte HS, Lamme VAF (2009) A biologically plausible model for rapid natural image identification. Advances in Neural Information Processing Systems 22, 629-637. (https://proceedings.neurips.cc/paper/2009/file/ccb0989662211f61edae2e26d58ea92f-Paper.pdf)
 
 Please cite these publications if you use this model for your own work.
 
-Please contact iris.groen[at]nyu.edu for questions.
+Please contact i.i.a.groen[at]uva.nl for questions.
 
